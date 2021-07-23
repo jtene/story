@@ -1,0 +1,1 @@
+Chapter 2: As simple as that. However, if you are not in the directory, you will need to type a bit more. For example:
