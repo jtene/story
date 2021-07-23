@@ -1,1 +1,1 @@
-Open file is done
+Assuming we are located in the directory, and there is a file called file1.txt, and we want to change the name to file2.txt. We will need to type the following:
